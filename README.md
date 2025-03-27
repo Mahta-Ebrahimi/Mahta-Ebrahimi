@@ -2,11 +2,7 @@
 <h3 align="center">A passionate frontend developer-UI/UX Designer</h3>
 <br/>
 <br/>
-<br/>
-<br/>
 <img align="right" alt="Mahta" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwReJJmAMzbCvCNDGK669-KYTecwuUZ1EhuA&s">
-<br/>
-<br/>
 <br/>
 <br/>
 
