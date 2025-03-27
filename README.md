@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahta</h1>
 <h3 align="center">A passionate frontend developer-UI/UX Designer</h3>
-<BR/>
+<br/>
+<br/>
+<br/>
+<br/>
 <img align="right" alt="Mahta" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwReJJmAMzbCvCNDGK669-KYTecwuUZ1EhuA&s">
 
 
