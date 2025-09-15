@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer-UI/UX Designer</h3>
 <br/>
 <br/>
-<img align="right" alt="Mahta" width="400" src="/portfolioo.png">
+<img align="right" alt="Mahta" width="400" src="/portfolio1.png">
 <br/>
 <br/>
 
